@@ -1,0 +1,5 @@
+export const USER_LOADING = 'USER_LOADING';
+export const USER_LOADED = 'USER_LOADED';
+export const USER_LOADING_ERROR = 'USER_LOADING_ERROR';
+export const SHORTLIST_USER = 'SHORTLIST_USER';
+export const REJECT_USER = 'REJECT_USER';
